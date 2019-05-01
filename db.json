@@ -1,70 +1,15 @@
 {
   "movies": [
     {
-      "name": "Snow White and the Seven Dwarfs",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/snow-white-and-the-seven-dwarfs",
-      "genres": [
-        "Fantasy",
-        "Romance",
-        "Animation",
-        "Family",
-        "Musical"
-      ],
-      "date": "1938-02-04T05:00:00.000Z"
-    },
-    {
-      "name": "My Fair Lady",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/my-fair-lady",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Family",
-        "Musical"
-      ],
-      "date": "1964-12-25T05:00:00.000Z"
-    },
-    {
-      "name": "Mean Streets",
-      "score": 96,
-      "url": "https://www.metacritic.com/movie/mean-streets",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Crime"
-      ],
-      "date": "1973-10-14T04:00:00.000Z"
-    },
-    {
-      "name": "Toni Erdmann",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/toni-erdmann",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "date": "2016-12-25T05:00:00.000Z"
-    },
-    {
-      "name": "The Godfather",
-      "score": 100,
-      "url": "https://www.metacritic.com/movie/the-godfather",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Crime"
-      ],
-      "date": "1972-03-11T05:00:00.000Z"
-    },
-    {
-      "name": "Faces Places",
+      "name": "The Lord of the Rings: The Return of the King",
       "score": 94,
-      "url": "https://www.metacritic.com/movie/faces-places",
+      "url": "https://www.metacritic.com/movie/the-lord-of-the-rings-the-return-of-the-king",
       "genres": [
-        "Documentary"
+        "Action",
+        "Adventure",
+        "Fantasy"
       ],
-      "date": "2017-10-06T04:00:00.000Z"
+      "date": "2003-12-17T05:00:00.000Z"
     },
     {
       "name": "Pan's Labyrinth",
@@ -80,62 +25,57 @@
       "date": "2006-12-29T05:00:00.000Z"
     },
     {
-      "name": "Toy Story",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/toy-story",
-      "genres": [
-        "Adventure",
-        "Fantasy",
-        "Comedy",
-        "Animation",
-        "Family"
-      ],
-      "date": "1995-11-22T05:00:00.000Z"
-    },
-    {
-      "name": "Casablanca",
-      "score": 100,
-      "url": "https://www.metacritic.com/movie/casablanca",
+      "name": "Touch of Evil",
+      "score": 99,
+      "url": "https://www.metacritic.com/movie/touch-of-evil",
       "genres": [
         "Drama",
-        "Romance",
-        "War"
-      ],
-      "date": "1943-01-23T05:00:00.000Z"
-    },
-    {
-      "name": "The Lord of the Rings: The Return of the King",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/the-lord-of-the-rings-the-return-of-the-king",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "date": "2003-12-17T05:00:00.000Z"
-    },
-    {
-      "name": "Dunkirk",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/dunkirk",
-      "genres": [
-        "Action",
-        "Drama",
-        "History",
         "Thriller",
-        "War"
+        "Crime",
+        "Film-Noir"
       ],
-      "date": "2017-07-21T04:00:00.000Z"
+      "date": "1958-02-01T05:00:00.000Z"
     },
     {
-      "name": "Some Like It Hot",
-      "score": 97,
-      "url": "https://www.metacritic.com/movie/some-like-it-hot",
+      "name": "Rear Window",
+      "score": 100,
+      "url": "https://www.metacritic.com/movie/rear-window",
       "genres": [
-        "Comedy",
+        "Mystery",
+        "Thriller"
+      ],
+      "date": "1954-09-01T04:00:00.000Z"
+    },
+    {
+      "name": "Mean Streets",
+      "score": 96,
+      "url": "https://www.metacritic.com/movie/mean-streets",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "date": "1973-10-14T04:00:00.000Z"
+    },
+    {
+      "name": "Three Colors: Red",
+      "score": 100,
+      "url": "https://www.metacritic.com/movie/three-colors-red",
+      "genres": [
+        "Drama",
+        "Mystery",
         "Romance"
       ],
-      "date": "1959-03-29T04:00:00.000Z"
+      "date": "1994-11-23T05:00:00.000Z"
+    },
+    {
+      "name": "Roma",
+      "score": 96,
+      "url": "https://www.metacritic.com/movie/roma",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2018-11-21T05:00:00.000Z"
     },
     {
       "name": "Psycho",
@@ -147,26 +87,6 @@
         "Horror"
       ],
       "date": "1960-09-08T04:00:00.000Z"
-    },
-    {
-      "name": "Lady Bird",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/lady-bird",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "date": "2017-11-03T04:00:00.000Z"
-    },
-    {
-      "name": "Citizen Kane",
-      "score": 100,
-      "url": "https://www.metacritic.com/movie/citizen-kane",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "date": "1941-09-04T04:00:00.000Z"
     },
     {
       "name": "Gravity",
@@ -181,123 +101,15 @@
       "date": "2013-10-04T04:00:00.000Z"
     },
     {
-      "name": "The Last Picture Show",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/the-last-picture-show",
-      "genres": [
-        "Drama"
-      ],
-      "date": "1971-10-22T04:00:00.000Z"
-    },
-    {
-      "name": "Pulp Fiction",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/pulp-fiction",
+      "name": "Hoop Dreams",
+      "score": 98,
+      "url": "https://www.metacritic.com/movie/hoop-dreams",
       "genres": [
         "Drama",
-        "Thriller",
-        "Crime"
-      ],
-      "date": "1994-10-14T04:00:00.000Z"
-    },
-    {
-      "name": "Carol",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/carol",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "date": "2015-11-20T05:00:00.000Z"
-    },
-    {
-      "name": "Crouching Tiger, Hidden Dragon",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/crouching-tiger-hidden-dragon",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Romance"
-      ],
-      "date": "2000-12-08T05:00:00.000Z"
-    },
-    {
-      "name": "12 Years a Slave",
-      "score": 96,
-      "url": "https://www.metacritic.com/movie/12-years-a-slave",
-      "genres": [
-        "Biography",
-        "Drama",
-        "History"
-      ],
-      "date": "2013-10-18T04:00:00.000Z"
-    },
-    {
-      "name": "The Wild Bunch",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/the-wild-bunch",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Western"
-      ],
-      "date": "1969-06-18T04:00:00.000Z"
-    },
-    {
-      "name": "A Separation",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/a-separation",
-      "genres": [
-        "Drama"
-      ],
-      "date": "2011-12-30T05:00:00.000Z"
-    },
-    {
-      "name": "The Hurt Locker",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/the-hurt-locker",
-      "genres": [
-        "Action",
-        "Drama",
-        "Thriller",
-        "War"
-      ],
-      "date": "2009-06-26T04:00:00.000Z"
-    },
-    {
-      "name": "Zero Dark Thirty",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/zero-dark-thirty",
-      "genres": [
-        "Action",
-        "Drama",
-        "History",
-        "Thriller"
-      ],
-      "date": "2012-12-19T05:00:00.000Z"
-    },
-    {
-      "name": "Ratatouille",
-      "score": 96,
-      "url": "https://www.metacritic.com/movie/ratatouille",
-      "genres": [
-        "Fantasy",
-        "Comedy",
-        "Animation",
-        "Family"
-      ],
-      "date": "2007-06-29T04:00:00.000Z"
-    },
-    {
-      "name": "I Am Not Your Negro",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/i-am-not-your-negro",
-      "genres": [
+        "Sport",
         "Documentary"
       ],
-      "date": "2016-12-09T05:00:00.000Z"
+      "date": "1994-10-14T04:00:00.000Z"
     },
     {
       "name": "The Souvenir",
@@ -309,48 +121,6 @@
         "Romance"
       ],
       "date": "2019-05-17T04:00:00.000Z"
-    },
-    {
-      "name": "Fantasia",
-      "score": 96,
-      "url": "https://www.metacritic.com/movie/fantasia",
-      "genres": [
-        "Fantasy",
-        "Music",
-        "Animation",
-        "Family"
-      ],
-      "date": "1940-11-13T05:00:00.000Z"
-    },
-    {
-      "name": "4 Months, 3 Weeks and 2 Days",
-      "score": 97,
-      "url": "https://www.metacritic.com/movie/4-months-3-weeks-and-2-days",
-      "genres": [
-        "Drama"
-      ],
-      "date": "2008-01-23T05:00:00.000Z"
-    },
-    {
-      "name": "Roma",
-      "score": 96,
-      "url": "https://www.metacritic.com/movie/roma",
-      "genres": [
-        "Drama"
-      ],
-      "date": "2018-11-21T05:00:00.000Z"
-    },
-    {
-      "name": "Spotlight",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/spotlight",
-      "genres": [
-        "Biography",
-        "Drama",
-        "History",
-        "Thriller"
-      ],
-      "date": "2015-11-06T05:00:00.000Z"
     },
     {
       "name": "Inside Out",
@@ -367,16 +137,48 @@
       "date": "2015-06-19T04:00:00.000Z"
     },
     {
-      "name": "The Social Network",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/the-social-network",
+      "name": "12 Angry Men",
+      "score": 96,
+      "url": "https://www.metacritic.com/movie/12-angry-men",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "date": "1957-04-01T04:00:00.000Z"
+    },
+    {
+      "name": "Ratatouille",
+      "score": 96,
+      "url": "https://www.metacritic.com/movie/ratatouille",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Animation",
+        "Family"
+      ],
+      "date": "2007-06-29T04:00:00.000Z"
+    },
+    {
+      "name": "The Diving Bell and the Butterfly",
+      "score": 92,
+      "url": "https://www.metacritic.com/movie/the-diving-bell-and-the-butterfly",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "date": "2007-11-30T05:00:00.000Z"
+    },
+    {
+      "name": "Schindler's List",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/schindlers-list",
       "genres": [
         "Biography",
         "Drama",
         "History",
-        "Comedy"
+        "War"
       ],
-      "date": "2010-10-01T04:00:00.000Z"
+      "date": "1993-12-15T05:00:00.000Z"
     },
     {
       "name": "Boyhood",
@@ -386,117 +188,6 @@
         "Drama"
       ],
       "date": "2014-07-11T04:00:00.000Z"
-    },
-    {
-      "name": "Moonlight",
-      "score": 99,
-      "url": "https://www.metacritic.com/movie/moonlight-2016",
-      "genres": [
-        "Drama"
-      ],
-      "date": "2016-10-21T04:00:00.000Z"
-    },
-    {
-      "name": "Manchester by the Sea",
-      "score": 96,
-      "url": "https://www.metacritic.com/movie/manchester-by-the-sea",
-      "genres": [
-        "Drama"
-      ],
-      "date": "2016-11-18T05:00:00.000Z"
-    },
-    {
-      "name": "Crumb",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/crumb",
-      "genres": [
-        "Biography",
-        "Documentary"
-      ],
-      "date": "1995-04-28T04:00:00.000Z"
-    },
-    {
-      "name": "Inside Llewyn Davis",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/inside-llewyn-davis",
-      "genres": [
-        "Drama",
-        "Music"
-      ],
-      "date": "2013-12-06T05:00:00.000Z"
-    },
-    {
-      "name": "Before Midnight",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/before-midnight",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "date": "2013-05-24T04:00:00.000Z"
-    },
-    {
-      "name": "Three Colors: Red",
-      "score": 100,
-      "url": "https://www.metacritic.com/movie/three-colors-red",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Romance"
-      ],
-      "date": "1994-11-23T05:00:00.000Z"
-    },
-    {
-      "name": "Amour",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/amour",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "date": "2012-12-19T05:00:00.000Z"
-    },
-    {
-      "name": "Vertigo",
-      "score": 100,
-      "url": "https://www.metacritic.com/movie/vertigo",
-      "genres": [],
-      "date": "1958-05-28T04:00:00.000Z"
-    },
-    {
-      "name": "Carlos",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/carlos",
-      "genres": [
-        "Biography",
-        "Drama",
-        "History",
-        "Thriller",
-        "Crime"
-      ],
-      "date": "2010-10-15T04:00:00.000Z"
-    },
-    {
-      "name": "Touch of Evil",
-      "score": 99,
-      "url": "https://www.metacritic.com/movie/touch-of-evil",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Crime",
-        "Film-Noir"
-      ],
-      "date": "1958-02-01T05:00:00.000Z"
-    },
-    {
-      "name": "Reversal of Fortune",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/reversal-of-fortune",
-      "genres": [
-        "Drama",
-        "Mystery"
-      ],
-      "date": "1990-10-17T04:00:00.000Z"
     },
     {
       "name": "Ran",
@@ -510,13 +201,52 @@
       "date": "1985-12-20T05:00:00.000Z"
     },
     {
-      "name": "Killer of Sheep",
+      "name": "Shoplifters",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/shoplifters",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "date": "2018-11-23T05:00:00.000Z"
+    },
+    {
+      "name": "The Maltese Falcon",
+      "score": 96,
+      "url": "https://www.metacritic.com/movie/the-maltese-falcon",
+      "genres": [
+        "Mystery",
+        "Film-Noir"
+      ],
+      "date": "1941-10-18T04:00:00.000Z"
+    },
+    {
+      "name": "Carol",
       "score": 95,
-      "url": "https://www.metacritic.com/movie/killer-of-sheep",
+      "url": "https://www.metacritic.com/movie/carol",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "date": "2015-11-20T05:00:00.000Z"
+    },
+    {
+      "name": "A Separation",
+      "score": 95,
+      "url": "https://www.metacritic.com/movie/a-separation",
       "genres": [
         "Drama"
       ],
-      "date": "2007-03-30T04:00:00.000Z"
+      "date": "2011-12-30T05:00:00.000Z"
+    },
+    {
+      "name": "Moonlight",
+      "score": 99,
+      "url": "https://www.metacritic.com/movie/moonlight-2016",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2016-10-21T04:00:00.000Z"
     },
     {
       "name": "Spirited Away",
@@ -531,6 +261,16 @@
       "date": "2002-09-20T04:00:00.000Z"
     },
     {
+      "name": "Inside Llewyn Davis",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/inside-llewyn-davis",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "date": "2013-12-06T05:00:00.000Z"
+    },
+    {
       "name": "Rosemary's Baby",
       "score": 96,
       "url": "https://www.metacritic.com/movie/rosemarys-baby",
@@ -539,6 +279,142 @@
         "Horror"
       ],
       "date": "1968-06-12T04:00:00.000Z"
+    },
+    {
+      "name": "The Hurt Locker",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/the-hurt-locker",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller",
+        "War"
+      ],
+      "date": "2009-06-26T04:00:00.000Z"
+    },
+    {
+      "name": "Mr. Turner",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/mr-turner",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "date": "2014-12-19T05:00:00.000Z"
+    },
+    {
+      "name": "Sideways",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/sideways",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "date": "2004-10-22T04:00:00.000Z"
+    },
+    {
+      "name": "45 Years",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/45-years",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "date": "2015-12-23T05:00:00.000Z"
+    },
+    {
+      "name": "WALL-E",
+      "score": 95,
+      "url": "https://www.metacritic.com/movie/wall-e",
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Romance",
+        "Animation",
+        "Family"
+      ],
+      "date": "2008-06-27T04:00:00.000Z"
+    },
+    {
+      "name": "Amazing Grace",
+      "score": 95,
+      "url": "https://www.metacritic.com/movie/amazing-grace-1972",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2018-11-23T05:00:00.000Z"
+    },
+    {
+      "name": "Manchester by the Sea",
+      "score": 96,
+      "url": "https://www.metacritic.com/movie/manchester-by-the-sea",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2016-11-18T05:00:00.000Z"
+    },
+    {
+      "name": "I Am Not Your Negro",
+      "score": 95,
+      "url": "https://www.metacritic.com/movie/i-am-not-your-negro",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2016-12-09T05:00:00.000Z"
+    },
+    {
+      "name": "12 Years a Slave",
+      "score": 96,
+      "url": "https://www.metacritic.com/movie/12-years-a-slave",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "date": "2013-10-18T04:00:00.000Z"
+    },
+    {
+      "name": "Call Me by Your Name",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/call-me-by-your-name",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "date": "2017-11-24T05:00:00.000Z"
+    },
+    {
+      "name": "Spotlight",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/spotlight",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "date": "2015-11-06T05:00:00.000Z"
+    },
+    {
+      "name": "4 Months, 3 Weeks and 2 Days",
+      "score": 97,
+      "url": "https://www.metacritic.com/movie/4-months-3-weeks-and-2-days",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2008-01-23T05:00:00.000Z"
+    },
+    {
+      "name": "Toni Erdmann",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/toni-erdmann",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "date": "2016-12-25T05:00:00.000Z"
     },
     {
       "name": "The Treasure of the Sierra Madre",
@@ -552,14 +428,14 @@
       "date": "1948-01-24T05:00:00.000Z"
     },
     {
-      "name": "My Left Foot",
-      "score": 97,
-      "url": "https://www.metacritic.com/movie/my-left-foot",
+      "name": "Shoah: Four Sisters",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/shoah-four-sisters",
       "genres": [
-        "Biography",
-        "Drama"
+        "History",
+        "Documentary"
       ],
-      "date": "1990-03-30T05:00:00.000Z"
+      "date": "2018-11-14T05:00:00.000Z"
     },
     {
       "name": "Sita Sings the Blues",
@@ -575,107 +451,46 @@
       "date": "2009-12-25T05:00:00.000Z"
     },
     {
-      "name": "The Grapes of Wrath",
+      "name": "Singin' in the Rain",
+      "score": 99,
+      "url": "https://www.metacritic.com/movie/singin-in-the-rain",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Musical"
+      ],
+      "date": "1952-04-11T04:00:00.000Z"
+    },
+    {
+      "name": "Zero Dark Thirty",
       "score": 95,
-      "url": "https://www.metacritic.com/movie/the-grapes-of-wrath",
+      "url": "https://www.metacritic.com/movie/zero-dark-thirty",
       "genres": [
+        "Action",
         "Drama",
-        "History"
+        "History",
+        "Thriller"
       ],
-      "date": "1940-03-15T04:00:00.000Z"
+      "date": "2012-12-19T05:00:00.000Z"
     },
     {
-      "name": "The Searchers",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/the-searchers",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Western"
-      ],
-      "date": "1956-05-26T04:00:00.000Z"
-    },
-    {
-      "name": "The Diving Bell and the Butterfly",
-      "score": 92,
-      "url": "https://www.metacritic.com/movie/the-diving-bell-and-the-butterfly",
+      "name": "Crumb",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/crumb",
       "genres": [
         "Biography",
-        "Drama"
+        "Documentary"
       ],
-      "date": "2007-11-30T05:00:00.000Z"
+      "date": "1995-04-28T04:00:00.000Z"
     },
     {
-      "name": "We Were Here",
+      "name": "Faces Places",
       "score": 94,
-      "url": "https://www.metacritic.com/movie/we-were-here",
+      "url": "https://www.metacritic.com/movie/faces-places",
       "genres": [
         "Documentary"
       ],
-      "date": "2011-09-09T04:00:00.000Z"
-    },
-    {
-      "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-      "score": 96,
-      "url": "https://www.metacritic.com/movie/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "date": "1964-01-29T05:00:00.000Z"
-    },
-    {
-      "name": "Call Me by Your Name",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/call-me-by-your-name",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "date": "2017-11-24T05:00:00.000Z"
-    },
-    {
-      "name": "Hoop Dreams",
-      "score": 98,
-      "url": "https://www.metacritic.com/movie/hoop-dreams",
-      "genres": [
-        "Drama",
-        "Sport",
-        "Documentary"
-      ],
-      "date": "1994-10-14T04:00:00.000Z"
-    },
-    {
-      "name": "American Graffiti",
-      "score": 97,
-      "url": "https://www.metacritic.com/movie/american-graffiti",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "date": "1973-08-11T04:00:00.000Z"
-    },
-    {
-      "name": "The Manchurian Candidate",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/the-manchurian-candidate-1962",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "date": "1962-10-24T04:00:00.000Z"
-    },
-    {
-      "name": "Sideways",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/sideways",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Romance"
-      ],
-      "date": "2004-10-22T04:00:00.000Z"
+      "date": "2017-10-06T04:00:00.000Z"
     },
     {
       "name": "Sherpa",
@@ -687,55 +502,35 @@
       "date": "2015-10-02T04:00:00.000Z"
     },
     {
-      "name": "Badlands",
+      "name": "The Servant",
       "score": 93,
-      "url": "https://www.metacritic.com/movie/badlands",
+      "url": "https://www.metacritic.com/movie/the-servant",
       "genres": [
-        "Drama",
-        "Crime"
+        "Drama"
       ],
-      "date": "1973-10-15T04:00:00.000Z"
+      "date": "1964-03-16T04:00:00.000Z"
     },
     {
-      "name": "45 Years",
+      "name": "Before Midnight",
       "score": 94,
-      "url": "https://www.metacritic.com/movie/45-years",
+      "url": "https://www.metacritic.com/movie/before-midnight",
       "genres": [
         "Drama",
         "Romance"
       ],
-      "date": "2015-12-23T05:00:00.000Z"
+      "date": "2013-05-24T04:00:00.000Z"
     },
     {
-      "name": "Gone with the Wind",
-      "score": 97,
-      "url": "https://www.metacritic.com/movie/gone-with-the-wind",
+      "name": "La La Land",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/la-la-land",
       "genres": [
         "Drama",
-        "History",
+        "Comedy",
         "Romance",
-        "War"
+        "Musical"
       ],
-      "date": "1940-01-17T05:00:00.000Z"
-    },
-    {
-      "name": "Shadow of a Doubt",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/shadow-of-a-doubt",
-      "genres": [
-        "Thriller"
-      ],
-      "date": "1943-01-15T05:00:00.000Z"
-    },
-    {
-      "name": "12 Angry Men",
-      "score": 96,
-      "url": "https://www.metacritic.com/movie/12-angry-men",
-      "genres": [
-        "Drama",
-        "Crime"
-      ],
-      "date": "1957-04-01T04:00:00.000Z"
+      "date": "2016-12-09T05:00:00.000Z"
     },
     {
       "name": "One More Time with Feeling",
@@ -748,101 +543,36 @@
       "date": "2016-09-08T04:00:00.000Z"
     },
     {
-      "name": "The Decline of Western Civilization",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/the-decline-of-western-civilization",
-      "genres": [
-        "History",
-        "Music",
-        "Documentary"
-      ],
-      "date": "1981-07-05T04:00:00.000Z"
-    },
-    {
-      "name": "Shoah: Four Sisters",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/shoah-four-sisters",
-      "genres": [
-        "History",
-        "Documentary"
-      ],
-      "date": "2018-11-14T05:00:00.000Z"
-    },
-    {
-      "name": "The Magnificent Ambersons",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/the-magnificent-ambersons",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "date": "1942-07-10T04:00:00.000Z"
-    },
-    {
-      "name": "Schindler's List",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/schindlers-list",
+      "name": "My Left Foot",
+      "score": 97,
+      "url": "https://www.metacritic.com/movie/my-left-foot",
       "genres": [
         "Biography",
-        "Drama",
-        "History",
-        "War"
+        "Drama"
       ],
-      "date": "1993-12-15T05:00:00.000Z"
+      "date": "1990-03-30T05:00:00.000Z"
     },
     {
-      "name": "Amazing Grace",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/amazing-grace-1972",
-      "genres": [
-        "Documentary"
-      ],
-      "date": "2018-11-23T05:00:00.000Z"
-    },
-    {
-      "name": "The Maltese Falcon",
+      "name": "Dumbo",
       "score": 96,
-      "url": "https://www.metacritic.com/movie/the-maltese-falcon",
-      "genres": [
-        "Mystery",
-        "Film-Noir"
-      ],
-      "date": "1941-10-18T04:00:00.000Z"
-    },
-    {
-      "name": "Double Indemnity",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/double-indemnity",
+      "url": "https://www.metacritic.com/movie/dumbo-1941",
       "genres": [
         "Drama",
-        "Mystery",
-        "Thriller",
-        "Crime",
-        "Film-Noir"
-      ],
-      "date": "1944-07-06T04:00:00.000Z"
-    },
-    {
-      "name": "Beauty and the Beast",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/beauty-and-the-beast-1991",
-      "genres": [
-        "Fantasy",
-        "Romance",
         "Animation",
         "Family",
         "Musical"
       ],
-      "date": "1991-11-22T05:00:00.000Z"
+      "date": "1941-10-31T04:00:00.000Z"
     },
     {
-      "name": "The Servant",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/the-servant",
+      "name": "The Grapes of Wrath",
+      "score": 95,
+      "url": "https://www.metacritic.com/movie/the-grapes-of-wrath",
       "genres": [
-        "Drama"
+        "Drama",
+        "History"
       ],
-      "date": "1964-03-16T04:00:00.000Z"
+      "date": "1940-03-15T04:00:00.000Z"
     },
     {
       "name": "Pinocchio",
@@ -868,14 +598,14 @@
       "date": "1978-09-13T04:00:00.000Z"
     },
     {
-      "name": "Rear Window",
-      "score": 100,
-      "url": "https://www.metacritic.com/movie/rear-window",
+      "name": "Reversal of Fortune",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/reversal-of-fortune",
       "genres": [
-        "Mystery",
-        "Thriller"
+        "Drama",
+        "Mystery"
       ],
-      "date": "1954-09-01T04:00:00.000Z"
+      "date": "1990-10-17T04:00:00.000Z"
     },
     {
       "name": "There Will Be Blood",
@@ -888,46 +618,46 @@
       "date": "2007-12-26T05:00:00.000Z"
     },
     {
-      "name": "Notorious",
-      "score": 100,
-      "url": "https://www.metacritic.com/movie/notorious-1946",
-      "genres": [
-        "Drama",
-        "Thriller",
-        "Romance",
-        "Film-Noir"
-      ],
-      "date": "1946-09-06T04:00:00.000Z"
-    },
-    {
-      "name": "The Man Who Shot Liberty Valance",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/the-man-who-shot-liberty-valance",
-      "genres": [
-        "Drama",
-        "Western"
-      ],
-      "date": "1962-04-22T04:00:00.000Z"
-    },
-    {
-      "name": "All About Eve",
-      "score": 98,
-      "url": "https://www.metacritic.com/movie/all-about-eve",
+      "name": "Killer of Sheep",
+      "score": 95,
+      "url": "https://www.metacritic.com/movie/killer-of-sheep",
       "genres": [
         "Drama"
       ],
-      "date": "1950-10-27T04:00:00.000Z"
+      "date": "2007-03-30T04:00:00.000Z"
     },
     {
-      "name": "Apocalypse Now",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/apocalypse-now",
+      "name": "Toy Story",
+      "score": 95,
+      "url": "https://www.metacritic.com/movie/toy-story",
       "genres": [
-        "Action",
-        "Drama",
-        "War"
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Animation",
+        "Family"
       ],
-      "date": "1979-08-15T04:00:00.000Z"
+      "date": "1995-11-22T05:00:00.000Z"
+    },
+    {
+      "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "score": 96,
+      "url": "https://www.metacritic.com/movie/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "date": "1964-01-29T05:00:00.000Z"
+    },
+    {
+      "name": "American Graffiti",
+      "score": 97,
+      "url": "https://www.metacritic.com/movie/american-graffiti",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "date": "1973-08-11T04:00:00.000Z"
     },
     {
       "name": "The Third Man",
@@ -953,24 +683,46 @@
       "date": "1959-08-06T04:00:00.000Z"
     },
     {
-      "name": "Yi Yi",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/yi-yi",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Music"
-      ],
-      "date": "2000-10-06T04:00:00.000Z"
-    },
-    {
-      "name": "The Gunfighter",
+      "name": "The Searchers",
       "score": 94,
-      "url": "https://www.metacritic.com/movie/the-gunfighter",
+      "url": "https://www.metacritic.com/movie/the-searchers",
       "genres": [
+        "Adventure",
+        "Drama",
         "Western"
       ],
-      "date": "1950-06-23T04:00:00.000Z"
+      "date": "1956-05-26T04:00:00.000Z"
+    },
+    {
+      "name": "Vertigo",
+      "score": 100,
+      "url": "https://www.metacritic.com/movie/vertigo",
+      "genres": [],
+      "date": "1958-05-28T04:00:00.000Z"
+    },
+    {
+      "name": "Double Indemnity",
+      "score": 95,
+      "url": "https://www.metacritic.com/movie/double-indemnity",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller",
+        "Crime",
+        "Film-Noir"
+      ],
+      "date": "1944-07-06T04:00:00.000Z"
+    },
+    {
+      "name": "The Manchurian Candidate",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/the-manchurian-candidate-1962",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "date": "1962-10-24T04:00:00.000Z"
     },
     {
       "name": "Nashville",
@@ -984,15 +736,296 @@
       "date": "1975-06-11T04:00:00.000Z"
     },
     {
-      "name": "Singin' in the Rain",
-      "score": 99,
-      "url": "https://www.metacritic.com/movie/singin-in-the-rain",
+      "name": "Amour",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/amour",
       "genres": [
-        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "date": "2012-12-19T05:00:00.000Z"
+    },
+    {
+      "name": "Yi Yi",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/yi-yi",
+      "genres": [
+        "Drama",
         "Romance",
+        "Music"
+      ],
+      "date": "2000-10-06T04:00:00.000Z"
+    },
+    {
+      "name": "The Man Who Shot Liberty Valance",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/the-man-who-shot-liberty-valance",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "date": "1962-04-22T04:00:00.000Z"
+    },
+    {
+      "name": "Fantasia",
+      "score": 96,
+      "url": "https://www.metacritic.com/movie/fantasia",
+      "genres": [
+        "Fantasy",
+        "Music",
+        "Animation",
+        "Family"
+      ],
+      "date": "1940-11-13T05:00:00.000Z"
+    },
+    {
+      "name": "Lady Bird",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/lady-bird",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "date": "2017-11-03T04:00:00.000Z"
+    },
+    {
+      "name": "Badlands",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/badlands",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "date": "1973-10-15T04:00:00.000Z"
+    },
+    {
+      "name": "Beauty and the Beast",
+      "score": 95,
+      "url": "https://www.metacritic.com/movie/beauty-and-the-beast-1991",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Animation",
+        "Family",
         "Musical"
       ],
-      "date": "1952-04-11T04:00:00.000Z"
+      "date": "1991-11-22T05:00:00.000Z"
+    },
+    {
+      "name": "Snow White and the Seven Dwarfs",
+      "score": 95,
+      "url": "https://www.metacritic.com/movie/snow-white-and-the-seven-dwarfs",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Animation",
+        "Family",
+        "Musical"
+      ],
+      "date": "1938-02-04T05:00:00.000Z"
+    },
+    {
+      "name": "Shadow of a Doubt",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/shadow-of-a-doubt",
+      "genres": [
+        "Thriller"
+      ],
+      "date": "1943-01-15T05:00:00.000Z"
+    },
+    {
+      "name": "All About Eve",
+      "score": 98,
+      "url": "https://www.metacritic.com/movie/all-about-eve",
+      "genres": [
+        "Drama"
+      ],
+      "date": "1950-10-27T04:00:00.000Z"
+    },
+    {
+      "name": "The Magnificent Ambersons",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/the-magnificent-ambersons",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "date": "1942-07-10T04:00:00.000Z"
+    },
+    {
+      "name": "We Were Here",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/we-were-here",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2011-09-09T04:00:00.000Z"
+    },
+    {
+      "name": "The Wild Bunch",
+      "score": 95,
+      "url": "https://www.metacritic.com/movie/the-wild-bunch",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Western"
+      ],
+      "date": "1969-06-18T04:00:00.000Z"
+    },
+    {
+      "name": "Apocalypse Now",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/apocalypse-now",
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "date": "1979-08-15T04:00:00.000Z"
+    },
+    {
+      "name": "Casablanca",
+      "score": 100,
+      "url": "https://www.metacritic.com/movie/casablanca",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "date": "1943-01-23T05:00:00.000Z"
+    },
+    {
+      "name": "Notorious",
+      "score": 100,
+      "url": "https://www.metacritic.com/movie/notorious-1946",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Romance",
+        "Film-Noir"
+      ],
+      "date": "1946-09-06T04:00:00.000Z"
+    },
+    {
+      "name": "My Fair Lady",
+      "score": 95,
+      "url": "https://www.metacritic.com/movie/my-fair-lady",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Family",
+        "Musical"
+      ],
+      "date": "1964-12-25T05:00:00.000Z"
+    },
+    {
+      "name": "Some Like It Hot",
+      "score": 97,
+      "url": "https://www.metacritic.com/movie/some-like-it-hot",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "date": "1959-03-29T04:00:00.000Z"
+    },
+    {
+      "name": "A Streetcar Named Desire",
+      "score": 96,
+      "url": "https://www.metacritic.com/movie/a-streetcar-named-desire",
+      "genres": [
+        "Drama"
+      ],
+      "date": "1951-09-19T04:00:00.000Z"
+    },
+    {
+      "name": "The Gunfighter",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/the-gunfighter",
+      "genres": [
+        "Western"
+      ],
+      "date": "1950-06-23T04:00:00.000Z"
+    },
+    {
+      "name": "Dunkirk",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/dunkirk",
+      "genres": [
+        "Action",
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+      ],
+      "date": "2017-07-21T04:00:00.000Z"
+    },
+    {
+      "name": "Carlos",
+      "score": 94,
+      "url": "https://www.metacritic.com/movie/carlos",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History",
+        "Thriller",
+        "Crime"
+      ],
+      "date": "2010-10-15T04:00:00.000Z"
+    },
+    {
+      "name": "The Last Picture Show",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/the-last-picture-show",
+      "genres": [
+        "Drama"
+      ],
+      "date": "1971-10-22T04:00:00.000Z"
+    },
+    {
+      "name": "Gone with the Wind",
+      "score": 97,
+      "url": "https://www.metacritic.com/movie/gone-with-the-wind",
+      "genres": [
+        "Drama",
+        "History",
+        "Romance",
+        "War"
+      ],
+      "date": "1940-01-17T05:00:00.000Z"
+    },
+    {
+      "name": "The Decline of Western Civilization",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/the-decline-of-western-civilization",
+      "genres": [
+        "History",
+        "Music",
+        "Documentary"
+      ],
+      "date": "1981-07-05T04:00:00.000Z"
+    },
+    {
+      "name": "Crouching Tiger, Hidden Dragon",
+      "score": 93,
+      "url": "https://www.metacritic.com/movie/crouching-tiger-hidden-dragon",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "date": "2000-12-08T05:00:00.000Z"
+    },
+    {
+      "name": "Citizen Kane",
+      "score": 100,
+      "url": "https://www.metacritic.com/movie/citizen-kane",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "date": "1941-09-04T04:00:00.000Z"
     },
     {
       "name": "Taxi Driver",
@@ -1006,71 +1039,1112 @@
       "date": "1976-02-07T05:00:00.000Z"
     },
     {
-      "name": "A Streetcar Named Desire",
-      "score": 96,
-      "url": "https://www.metacritic.com/movie/a-streetcar-named-desire",
+      "name": "Spider-Man: Into the Spider-Verse",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/spider-man-into-the-spider-verse",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Comedy",
+        "Animation",
+        "Family"
+      ],
+      "date": "2018-12-14T05:00:00.000Z"
+    },
+    {
+      "name": "Dreamcatcher",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/dreamcatcher-2015",
+      "genres": [
+        "Crime",
+        "Family",
+        "Documentary"
+      ],
+      "date": "2015-03-20T04:00:00.000Z"
+    },
+    {
+      "name": "Apollo 11",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/apollo-11",
+      "genres": [
+        "History",
+        "Documentary"
+      ],
+      "date": "2019-03-01T05:00:00.000Z"
+    },
+    {
+      "name": "The Wicker Man",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/the-wicker-man-1974",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Horror"
+      ],
+      "date": "1974-08-07T04:00:00.000Z"
+    },
+    {
+      "name": "Back to the Future",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/back-to-the-future",
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "date": "1985-07-03T04:00:00.000Z"
+    },
+    {
+      "name": "Million Dollar Baby",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/million-dollar-baby",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "date": "2004-12-15T05:00:00.000Z"
+    },
+    {
+      "name": "Room",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/room-2015",
       "genres": [
         "Drama"
       ],
-      "date": "1951-09-19T04:00:00.000Z"
+      "date": "2015-10-16T04:00:00.000Z"
     },
     {
-      "name": "Dumbo",
-      "score": 96,
-      "url": "https://www.metacritic.com/movie/dumbo-1941",
+      "name": "Hereditary",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/hereditary",
       "genres": [
         "Drama",
+        "Mystery",
+        "Thriller",
+        "Horror"
+      ],
+      "date": "2018-06-08T04:00:00.000Z"
+    },
+    {
+      "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/birdman",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "date": "2014-10-17T04:00:00.000Z"
+    },
+    {
+      "name": "Elle",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/elle",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy"
+      ],
+      "date": "2016-11-11T05:00:00.000Z"
+    },
+    {
+      "name": "Brazil",
+      "score": 88,
+      "url": "https://www.metacritic.com/movie/brazil",
+      "genres": [
+        "Sci-Fi",
+        "Drama",
+        "Fantasy"
+      ],
+      "date": "1985-12-18T05:00:00.000Z"
+    },
+    {
+      "name": "The Godfather",
+      "score": 100,
+      "url": "https://www.metacritic.com/movie/the-godfather",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "date": "1972-03-11T05:00:00.000Z"
+    },
+    {
+      "name": "The Artist",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/the-artist",
+      "genres": [
+        "Romance"
+      ],
+      "date": "2011-11-23T05:00:00.000Z"
+    },
+    {
+      "name": "Love & Friendship",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/love-and-friendship",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "date": "2016-05-13T04:00:00.000Z"
+    },
+    {
+      "name": "If Beale Street Could Talk",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/if-beale-street-could-talk",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Crime"
+      ],
+      "date": "2018-12-14T05:00:00.000Z"
+    },
+    {
+      "name": "Knocked Up",
+      "score": 85,
+      "url": "https://www.metacritic.com/movie/knocked-up",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "date": "2007-06-01T04:00:00.000Z"
+    },
+    {
+      "name": "The Little Mermaid",
+      "score": 88,
+      "url": "https://www.metacritic.com/movie/the-little-mermaid",
+      "genres": [
+        "Fantasy",
+        "Romance",
         "Animation",
         "Family",
         "Musical"
       ],
-      "date": "1941-10-31T04:00:00.000Z"
+      "date": "1989-11-17T05:00:00.000Z"
     },
     {
-      "name": "Mr. Turner",
-      "score": 94,
-      "url": "https://www.metacritic.com/movie/mr-turner",
+      "name": "Whiplash",
+      "score": 88,
+      "url": "https://www.metacritic.com/movie/whiplash",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "date": "2014-10-10T04:00:00.000Z"
+    },
+    {
+      "name": "Lost in Translation",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/lost-in-translation",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "date": "2003-09-12T04:00:00.000Z"
+    },
+    {
+      "name": "Black Panther",
+      "score": 88,
+      "url": "https://www.metacritic.com/movie/black-panther",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Drama"
+      ],
+      "date": "2018-02-16T05:00:00.000Z"
+    },
+    {
+      "name": "Leave No Trace",
+      "score": 88,
+      "url": "https://www.metacritic.com/movie/leave-no-trace",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2018-06-29T04:00:00.000Z"
+    },
+    {
+      "name": "Eighth Grade",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/eighth-grade",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "date": "2018-07-13T04:00:00.000Z"
+    },
+    {
+      "name": "Eraserhead",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/eraserhead",
+      "genres": [
+        "Horror"
+      ],
+      "date": "1978-02-03T05:00:00.000Z"
+    },
+    {
+      "name": "The Intruder",
+      "score": 85,
+      "url": "https://www.metacritic.com/movie/the-intruder",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2005-12-23T05:00:00.000Z"
+    },
+    {
+      "name": "Little Women",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/little-women",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Family"
+      ],
+      "date": "1994-12-21T05:00:00.000Z"
+    },
+    {
+      "name": "The Silence of the Lambs",
+      "score": 85,
+      "url": "https://www.metacritic.com/movie/the-silence-of-the-lambs",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "date": "1991-02-13T05:00:00.000Z"
+    },
+    {
+      "name": "The Tillman Story",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/the-tillman-story",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2010-08-20T04:00:00.000Z"
+    },
+    {
+      "name": "Jaws",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/jaws",
+      "genres": [
+        "Adventure",
+        "Thriller",
+        "Horror"
+      ],
+      "date": "1975-06-20T04:00:00.000Z"
+    },
+    {
+      "name": "Cameraperson",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/cameraperson",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2016-09-09T04:00:00.000Z"
+    },
+    {
+      "name": "National Gallery",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/national-gallery",
+      "genres": [
+        "History",
+        "Documentary"
+      ],
+      "date": "2014-11-05T05:00:00.000Z"
+    },
+    {
+      "name": "An Education",
+      "score": 85,
+      "url": "https://www.metacritic.com/movie/an-education",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2009-10-09T04:00:00.000Z"
+    },
+    {
+      "name": "Howards End",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/howards-end",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "date": "1992-03-13T05:00:00.000Z"
+    },
+    {
+      "name": "Zama",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/zama",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2018-04-13T04:00:00.000Z"
+    },
+    {
+      "name": "Krisha",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/krisha",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Family"
+      ],
+      "date": "2016-03-18T04:00:00.000Z"
+    },
+    {
+      "name": "Lincoln",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/lincoln",
       "genres": [
         "Biography",
         "Drama",
-        "History"
+        "History",
+        "War"
       ],
-      "date": "2014-12-19T05:00:00.000Z"
+      "date": "2012-11-09T05:00:00.000Z"
     },
     {
-      "name": "Shoplifters",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/shoplifters",
+      "name": "Sling Blade",
+      "score": 84,
+      "url": "https://www.metacritic.com/movie/sling-blade",
+      "genres": [
+        "Drama"
+      ],
+      "date": "1996-11-27T05:00:00.000Z"
+    },
+    {
+      "name": "The Kid with a Bike",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/the-kid-with-a-bike",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2012-03-16T04:00:00.000Z"
+    },
+    {
+      "name": "The Past",
+      "score": 85,
+      "url": "https://www.metacritic.com/movie/the-past",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "date": "2013-12-20T05:00:00.000Z"
+    },
+    {
+      "name": "One False Move",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/one-false-move",
       "genres": [
         "Drama",
         "Crime"
       ],
-      "date": "2018-11-23T05:00:00.000Z"
+      "date": "1992-05-08T04:00:00.000Z"
     },
     {
-      "name": "WALL-E",
-      "score": 95,
-      "url": "https://www.metacritic.com/movie/wall-e",
+      "name": "The Work",
+      "score": 84,
+      "url": "https://www.metacritic.com/movie/the-work",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2017-10-20T04:00:00.000Z"
+    },
+    {
+      "name": "Slumdog Millionaire",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/slumdog-millionaire",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "date": "2008-11-12T05:00:00.000Z"
+    },
+    {
+      "name": "Nebraska",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/nebraska",
       "genres": [
         "Adventure",
-        "Sci-Fi",
-        "Romance",
-        "Animation",
-        "Family"
+        "Drama"
       ],
-      "date": "2008-06-27T04:00:00.000Z"
+      "date": "2013-11-15T05:00:00.000Z"
     },
     {
-      "name": "La La Land",
-      "score": 93,
-      "url": "https://www.metacritic.com/movie/la-la-land",
+      "name": "Turtles Can Fly",
+      "score": 85,
+      "url": "https://www.metacritic.com/movie/turtles-can-fly",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "date": "2005-02-18T05:00:00.000Z"
+    },
+    {
+      "name": "One Cut of the Dead",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/one-cut-of-the-dead",
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "date": null
+    },
+    {
+      "name": "Marooned in Iraq",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/marooned-in-iraq",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2003-04-25T04:00:00.000Z"
+    },
+    {
+      "name": "Restless Creature: Wendy Whelan",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/restless-creature-wendy-whelan",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2017-05-24T04:00:00.000Z"
+    },
+    {
+      "name": "Gomorrah",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/gomorrah",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "date": "2009-02-13T05:00:00.000Z"
+    },
+    {
+      "name": "The Fugitive",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/the-fugitive",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery",
+        "Thriller",
+        "Crime"
+      ],
+      "date": "1993-08-06T04:00:00.000Z"
+    },
+    {
+      "name": "Dog Day Afternoon",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/dog-day-afternoon",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "date": "1975-12-25T05:00:00.000Z"
+    },
+    {
+      "name": "The Great Escape",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/the-great-escape",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History",
+        "Thriller",
+        "War"
+      ],
+      "date": "1963-07-04T04:00:00.000Z"
+    },
+    {
+      "name": "Can You Ever Forgive Me?",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/can-you-ever-forgive-me",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Comedy",
+        "Crime"
+      ],
+      "date": "2018-10-19T04:00:00.000Z"
+    },
+    {
+      "name": "Holy Motors",
+      "score": 84,
+      "url": "https://www.metacritic.com/movie/holy-motors",
+      "genres": [
+        "Sci-Fi",
+        "Drama",
+        "Fantasy"
+      ],
+      "date": "2012-10-17T04:00:00.000Z"
+    },
+    {
+      "name": "Cemetery of Splendor",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/cemetery-of-splendor",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2016-03-04T05:00:00.000Z"
+    },
+    {
+      "name": "The Diary of a Teenage Girl",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/the-diary-of-a-teenage-girl",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "date": "2015-08-07T04:00:00.000Z"
+    },
+    {
+      "name": "To Kill a Mockingbird",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/to-kill-a-mockingbird",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "date": "1962-12-25T05:00:00.000Z"
+    },
+    {
+      "name": "Murderball",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/murderball",
+      "genres": [
+        "Sport",
+        "Documentary"
+      ],
+      "date": "2005-07-08T04:00:00.000Z"
+    },
+    {
+      "name": "Inside Job",
+      "score": 88,
+      "url": "https://www.metacritic.com/movie/inside-job",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2010-10-08T04:00:00.000Z"
+    },
+    {
+      "name": "sex, lies, and videotape",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/sex-lies-and-videotape",
+      "genres": [
+        "Drama"
+      ],
+      "date": "1989-08-04T04:00:00.000Z"
+    },
+    {
+      "name": "To Be or Not to Be",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/to-be-or-not-to-be",
+      "genres": [
+        "Comedy",
+        "War"
+      ],
+      "date": "1942-03-06T05:00:00.000Z"
+    },
+    {
+      "name": "42: Forty Two Up",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/42-forty-two-up",
+      "genres": [
+        "Biography",
+        "Documentary"
+      ],
+      "date": "1999-11-17T05:00:00.000Z"
+    },
+    {
+      "name": "Superman II",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/superman-ii",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Romance"
+      ],
+      "date": "1981-06-19T04:00:00.000Z"
+    },
+    {
+      "name": "Serpico (re-release)",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/serpico",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Crime"
+      ],
+      "date": "2004-08-06T04:00:00.000Z"
+    },
+    {
+      "name": "En el Séptimo Día (On the Seventh Day)",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/en-el-septimo-dia-on-the-seventh-day",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2018-06-08T04:00:00.000Z"
+    },
+    {
+      "name": "I Travel Because I Have to, I Come Back Because I Love You",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/i-travel-because-i-have-to-i-come-back-because-i-love-you",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2011-03-25T04:00:00.000Z"
+    },
+    {
+      "name": "Rebel Without a Cause",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/rebel-without-a-cause",
+      "genres": [
+        "Drama"
+      ],
+      "date": "1955-10-29T04:00:00.000Z"
+    },
+    {
+      "name": "The Bridge on the River Kwai",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/the-bridge-on-the-river-kwai",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "date": "1957-12-14T05:00:00.000Z"
+    },
+    {
+      "name": "The Deer Hunter",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/the-deer-hunter",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "date": "1978-12-08T05:00:00.000Z"
+    },
+    {
+      "name": "It Happened One Night",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/it-happened-one-night",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "date": "1934-02-22T05:00:00.000Z"
+    },
+    {
+      "name": "The Arbor",
+      "score": 88,
+      "url": "https://www.metacritic.com/movie/the-arbor",
+      "genres": [
+        "Biography",
+        "Documentary"
+      ],
+      "date": "2011-04-27T04:00:00.000Z"
+    },
+    {
+      "name": "Jane Fonda in Five Acts",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/jane-fonda-in-five-acts",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2018-09-21T04:00:00.000Z"
+    },
+    {
+      "name": "The Farewell",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/the-farewell",
+      "genres": [
+        "Comedy"
+      ],
+      "date": "2019-07-12T04:00:00.000Z"
+    },
+    {
+      "name": "The Autobiography of Nicolae Ceausescu",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/the-autobiography-of-nicolae-ceausescu",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2011-09-09T04:00:00.000Z"
+    },
+    {
+      "name": "The Farthest",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/the-farthest",
+      "genres": [
+        "History",
+        "Documentary"
+      ],
+      "date": "2017-08-11T04:00:00.000Z"
+    },
+    {
+      "name": "Of Men and War",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/of-men-and-war",
+      "genres": [
+        "History",
+        "War",
+        "Documentary"
+      ],
+      "date": "2015-11-06T05:00:00.000Z"
+    },
+    {
+      "name": "Meek's Cutoff",
+      "score": 85,
+      "url": "https://www.metacritic.com/movie/meeks-cutoff",
+      "genres": [
+        "Western"
+      ],
+      "date": "2011-04-08T04:00:00.000Z"
+    },
+    {
+      "name": "The Last Detail",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/the-last-detail",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "date": "1973-12-12T05:00:00.000Z"
+    },
+    {
+      "name": "Brokeback Mountain",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/brokeback-mountain",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Western"
+      ],
+      "date": "2005-12-09T05:00:00.000Z"
+    },
+    {
+      "name": "Hale County This Morning, This Evening",
+      "score": 85,
+      "url": "https://www.metacritic.com/movie/hale-county-this-morning-this-evening",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2018-09-14T04:00:00.000Z"
+    },
+    {
+      "name": "Uncle Boonmee Who Can Recall His Past Lives",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/uncle-boonmee-who-can-recall-his-past-lives",
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "date": "2011-03-04T05:00:00.000Z"
+    },
+    {
+      "name": "The Straight Story",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/the-straight-story",
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "date": "1999-10-15T04:00:00.000Z"
+    },
+    {
+      "name": "Fire at Sea",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/fire-at-sea",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2016-10-21T04:00:00.000Z"
+    },
+    {
+      "name": "Tootsie",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/tootsie",
       "genres": [
         "Drama",
         "Comedy",
-        "Romance",
+        "Romance"
+      ],
+      "date": "1982-12-17T05:00:00.000Z"
+    },
+    {
+      "name": "Broadcast News",
+      "score": 84,
+      "url": "https://www.metacritic.com/movie/broadcast-news",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "date": "1987-12-16T05:00:00.000Z"
+    },
+    {
+      "name": "Gangs of Wasseypur",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/gangs-of-wasseypur",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "date": "2015-01-16T05:00:00.000Z"
+    },
+    {
+      "name": "Uncertain",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/uncertain",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Documentary"
+      ],
+      "date": "2017-03-10T05:00:00.000Z"
+    },
+    {
+      "name": "The Best of Youth",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/the-best-of-youth",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "date": "2005-03-02T05:00:00.000Z"
+    },
+    {
+      "name": "The Conversation",
+      "score": 85,
+      "url": "https://www.metacritic.com/movie/the-conversation",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "date": "1974-04-07T04:00:00.000Z"
+    },
+    {
+      "name": "My Journey Through French Cinema",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/my-journey-through-french-cinema",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2017-06-23T04:00:00.000Z"
+    },
+    {
+      "name": "Bisbee '17",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/bisbee-17",
+      "genres": [
+        "Western",
+        "Documentary"
+      ],
+      "date": "2018-09-05T04:00:00.000Z"
+    },
+    {
+      "name": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/wallace-gromit-the-curse-of-the-were-rabbit",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Animation",
+        "Family"
+      ],
+      "date": "2005-10-05T04:00:00.000Z"
+    },
+    {
+      "name": "The Blue Angel (re-release)",
+      "score": 88,
+      "url": "https://www.metacritic.com/movie/the-blue-angel",
+      "genres": [
+        "Drama",
         "Musical"
       ],
-      "date": "2016-12-09T05:00:00.000Z"
+      "date": "2001-07-13T04:00:00.000Z"
+    },
+    {
+      "name": "Dead Souls",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/dead-souls",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2018-12-14T05:00:00.000Z"
+    },
+    {
+      "name": "Gideon's Army",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/gideons-army",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2013-06-28T04:00:00.000Z"
+    },
+    {
+      "name": "Like Water for Chocolate",
+      "score": 86,
+      "url": "https://www.metacritic.com/movie/like-water-for-chocolate",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "date": "1993-05-28T04:00:00.000Z"
+    },
+    {
+      "name": "Western",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/western",
+      "genres": [
+        "Western",
+        "Documentary"
+      ],
+      "date": "2015-09-25T04:00:00.000Z"
+    },
+    {
+      "name": "We Are the Best!",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/we-are-the-best",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2014-05-30T04:00:00.000Z"
+    },
+    {
+      "name": "Spartacus",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/spartacus",
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama",
+        "History",
+        "War"
+      ],
+      "date": "1960-10-19T04:00:00.000Z"
+    },
+    {
+      "name": "4 Little Girls",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/4-little-girls",
+      "genres": [
+        "History",
+        "Documentary"
+      ],
+      "date": "1997-07-09T04:00:00.000Z"
+    },
+    {
+      "name": "Quest",
+      "score": 88,
+      "url": "https://www.metacritic.com/movie/quest-2017",
+      "genres": [
+        "Music",
+        "Family",
+        "Documentary"
+      ],
+      "date": "2017-12-08T05:00:00.000Z"
+    },
+    {
+      "name": "Happy as Lazzaro",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/happy-as-lazzaro",
+      "genres": [
+        "Drama"
+      ],
+      "date": "2018-11-30T05:00:00.000Z"
+    },
+    {
+      "name": "Man on Wire",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/man-on-wire",
+      "genres": [
+        "Crime",
+        "Documentary"
+      ],
+      "date": "2008-07-25T04:00:00.000Z"
+    },
+    {
+      "name": "Three Billboards Outside Ebbing, Missouri",
+      "score": 88,
+      "url": "https://www.metacritic.com/movie/three-billboards-outside-ebbing-missouri",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+      ],
+      "date": "2017-11-10T05:00:00.000Z"
+    },
+    {
+      "name": "Tarnation",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/tarnation",
+      "genres": [
+        "Documentary"
+      ],
+      "date": "2004-10-06T04:00:00.000Z"
+    },
+    {
+      "name": "Medium Cool",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/medium-cool",
+      "genres": [
+        "Drama"
+      ],
+      "date": "1969-08-27T04:00:00.000Z"
+    },
+    {
+      "name": "Shine",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/shine",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "date": "1996-11-20T05:00:00.000Z"
+    },
+    {
+      "name": "All About My Mother",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/all-about-my-mother",
+      "genres": [
+        "Drama"
+      ],
+      "date": "1999-11-19T05:00:00.000Z"
+    },
+    {
+      "name": "The Shape of Water",
+      "score": 87,
+      "url": "https://www.metacritic.com/movie/the-shape-of-water",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller",
+        "Fantasy",
+        "Horror",
+        "Romance",
+        "War"
+      ],
+      "date": "2017-12-01T05:00:00.000Z"
+    },
+    {
+      "name": "Eternal Sunshine of the Spotless Mind",
+      "score": 89,
+      "url": "https://www.metacritic.com/movie/eternal-sunshine-of-the-spotless-mind",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "date": "2004-03-19T05:00:00.000Z"
     }
   ]
 }
