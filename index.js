@@ -1,6 +1,7 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const low = require('lowdb');
+const moment = require('moment');
 const FileSync = require('lowdb/adapters/FileSync');
 
 const adapter = new FileSync('db.json');
@@ -38,7 +39,7 @@ axios.get(`https://www.metacritic.com/browse/movies/score/metascore/all/filtered
             name: name.trim(),
             url: `https://www.metacritic.com${url}`,
             score: parseInt(score.trim(), 10),
-            date: date.trim()
+            date: moment(date.trim(), 'MMMM D, YYYY') // March 11, 1972 
           };
           db.get('movies').push(newMovie).write();
         }
