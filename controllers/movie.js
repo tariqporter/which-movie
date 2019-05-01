@@ -17,21 +17,45 @@ exports.genres = () => {
 };
 
 exports.moviesByGenre = (genre, movies) => {
+  const predicate = x => x => x.genres.includes(genre);
   let filteredMovies = [];
   if (movies) {
-    filteredMovies = movies.filter(x => x.genres.includes(genre));
+    filteredMovies = movies.filter(predicate);
   } else {
-    filteredMovies = db.get('movies').filter(x => x.genres.includes(genre)).value();
+    filteredMovies = db.get('movies').filter(predicate).value();
   }
   return filteredMovies;
 };
 
 exports.moviesByScore = (score, movies) => {
+  const predicate = x => x => x.score >= score;
   let filteredMovies = [];
   if (movies) {
-    filteredMovies = movies.filter(x => x.score >= score);
+    filteredMovies = movies.filter(predicate);
   } else {
-    filteredMovies = db.get('movies').filter(x => x.score >= score).value();
+    filteredMovies = db.get('movies').filter(predicate).value();
+  }
+  return filteredMovies;
+};
+
+exports.moviesNumberReviews = (numberReviews, movies) => {
+  const predicate = x => x.numberReviews >= numberReviews;
+  let filteredMovies = [];
+  if (movies) {
+    filteredMovies = movies.filter(predicate);
+  } else {
+    filteredMovies = db.get('movies').filter(predicate).value();
+  }
+  return filteredMovies;
+};
+
+exports.moviesByStarring = (partialStarring, movies) => {
+  const predicate = x => x.starring.some(y => y.includes(partialStarring));
+  let filteredMovies = [];
+  if (movies) {
+    filteredMovies = filteredMovies.filter(predicate);
+  } else {
+    filteredMovies = db.get('movies').filter(predicate).value();
   }
   return filteredMovies;
 };

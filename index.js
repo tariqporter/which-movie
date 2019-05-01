@@ -1,5 +1,6 @@
 const low = require('lowdb');
 const FileSync = require('lowdb/adapters/FileSync');
+const moment = require('moment');
 const { getMovieList, getMovieDetails } = require('./movieLoader');
 
 const adapter = new FileSync('db.json');
@@ -27,9 +28,10 @@ const getNextPage = () => {
 
     let successCount = 0;
     let completedCount = 0;
-    newMovieList.forEach(({ name, url, score, date }) => {
-      getMovieDetails(url).then(({ genres }) => {
-        moviesTable.push({ name, score, url, genres, date }).write();
+    newMovieList.forEach(({ url }) => {
+      getMovieDetails(url).then((movieDetails) => {
+        const lastUpdated = moment();
+        moviesTable.push({ ...movieDetails, url, lastUpdated }).write();
         successCount++;
         completedCount++;
 
