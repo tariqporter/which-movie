@@ -1,0 +1,604 @@
+{
+  "movies": [
+    {
+      "name": "Citizen Kane",
+      "url": "https://www.metacritic.com/movie/citizen-kane",
+      "score": 100,
+      "date": "September 4, 1941"
+    },
+    {
+      "name": "The Godfather",
+      "url": "https://www.metacritic.com/movie/the-godfather",
+      "score": 100,
+      "date": "March 11, 1972"
+    },
+    {
+      "name": "Rear Window",
+      "url": "https://www.metacritic.com/movie/rear-window",
+      "score": 100,
+      "date": "September 1, 1954"
+    },
+    {
+      "name": "Casablanca",
+      "url": "https://www.metacritic.com/movie/casablanca",
+      "score": 100,
+      "date": "January 23, 1943"
+    },
+    {
+      "name": "Boyhood",
+      "url": "https://www.metacritic.com/movie/boyhood",
+      "score": 100,
+      "date": "July 11, 2014"
+    },
+    {
+      "name": "Three Colors: Red",
+      "url": "https://www.metacritic.com/movie/three-colors-red",
+      "score": 100,
+      "date": "November 23, 1994"
+    },
+    {
+      "name": "Vertigo",
+      "url": "https://www.metacritic.com/movie/vertigo",
+      "score": 100,
+      "date": "May 28, 1958"
+    },
+    {
+      "name": "Notorious",
+      "url": "https://www.metacritic.com/movie/notorious-1946",
+      "score": 100,
+      "date": "September 6, 1946"
+    },
+    {
+      "name": "Singin' in the Rain",
+      "url": "https://www.metacritic.com/movie/singin-in-the-rain",
+      "score": 99,
+      "date": "April 11, 1952"
+    },
+    {
+      "name": "The Treasure of the Sierra Madre",
+      "url": "https://www.metacritic.com/movie/the-treasure-of-the-sierra-madre",
+      "score": 99,
+      "date": "January 24, 1948"
+    },
+    {
+      "name": "Moonlight",
+      "url": "https://www.metacritic.com/movie/moonlight-2016",
+      "score": 99,
+      "date": "October 21, 2016"
+    },
+    {
+      "name": "Pinocchio",
+      "url": "https://www.metacritic.com/movie/pinocchio-1940",
+      "score": 99,
+      "date": "February 23, 1940"
+    },
+    {
+      "name": "Touch of Evil",
+      "url": "https://www.metacritic.com/movie/touch-of-evil",
+      "score": 99,
+      "date": "February 1, 1958"
+    },
+    {
+      "name": "Pan's Labyrinth",
+      "url": "https://www.metacritic.com/movie/pans-labyrinth",
+      "score": 98,
+      "date": "December 29, 2006"
+    },
+    {
+      "name": "North by Northwest",
+      "url": "https://www.metacritic.com/movie/north-by-northwest",
+      "score": 98,
+      "date": "August 6, 1959"
+    },
+    {
+      "name": "All About Eve",
+      "url": "https://www.metacritic.com/movie/all-about-eve",
+      "score": 98,
+      "date": "October 27, 1950"
+    },
+    {
+      "name": "Hoop Dreams",
+      "url": "https://www.metacritic.com/movie/hoop-dreams",
+      "score": 98,
+      "date": "October 14, 1994"
+    },
+    {
+      "name": "My Left Foot",
+      "url": "https://www.metacritic.com/movie/my-left-foot",
+      "score": 97,
+      "date": "March 30, 1990"
+    },
+    {
+      "name": "The Third Man",
+      "url": "https://www.metacritic.com/movie/the-third-man",
+      "score": 97,
+      "date": "September 3, 1949"
+    },
+    {
+      "name": "Gone with the Wind",
+      "url": "https://www.metacritic.com/movie/gone-with-the-wind",
+      "score": 97,
+      "date": "January 17, 1940"
+    },
+    {
+      "name": "4 Months, 3 Weeks and 2 Days",
+      "url": "https://www.metacritic.com/movie/4-months-3-weeks-and-2-days",
+      "score": 97,
+      "date": "January 23, 2008"
+    },
+    {
+      "name": "Some Like It Hot",
+      "url": "https://www.metacritic.com/movie/some-like-it-hot",
+      "score": 97,
+      "date": "March 29, 1959"
+    },
+    {
+      "name": "Psycho",
+      "url": "https://www.metacritic.com/movie/psycho-1960",
+      "score": 97,
+      "date": "September 8, 1960"
+    },
+    {
+      "name": "American Graffiti",
+      "url": "https://www.metacritic.com/movie/american-graffiti",
+      "score": 97,
+      "date": "August 11, 1973"
+    },
+    {
+      "name": "Dumbo",
+      "url": "https://www.metacritic.com/movie/dumbo-1941",
+      "score": 96,
+      "date": "October 31, 1941"
+    },
+    {
+      "name": "Roma",
+      "url": "https://www.metacritic.com/movie/roma",
+      "score": 96,
+      "date": "November 21, 2018"
+    },
+    {
+      "name": "Ran",
+      "url": "https://www.metacritic.com/movie/ran",
+      "score": 96,
+      "date": "December 20, 1985"
+    },
+    {
+      "name": "12 Angry Men",
+      "url": "https://www.metacritic.com/movie/12-angry-men",
+      "score": 96,
+      "date": "April 1, 1957"
+    },
+    {
+      "name": "Manchester by the Sea",
+      "url": "https://www.metacritic.com/movie/manchester-by-the-sea",
+      "score": 96,
+      "date": "November 18, 2016"
+    },
+    {
+      "name": "Rosemary's Baby",
+      "url": "https://www.metacritic.com/movie/rosemarys-baby",
+      "score": 96,
+      "date": "June 12, 1968"
+    },
+    {
+      "name": "The Maltese Falcon",
+      "url": "https://www.metacritic.com/movie/the-maltese-falcon",
+      "score": 96,
+      "date": "October 18, 1941"
+    },
+    {
+      "name": "12 Years a Slave",
+      "url": "https://www.metacritic.com/movie/12-years-a-slave",
+      "score": 96,
+      "date": "October 18, 2013"
+    },
+    {
+      "name": "Nashville",
+      "url": "https://www.metacritic.com/movie/nashville",
+      "score": 96,
+      "date": "June 11, 1975"
+    },
+    {
+      "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "url": "https://www.metacritic.com/movie/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
+      "score": 96,
+      "date": "January 29, 1964"
+    },
+    {
+      "name": "Ratatouille",
+      "url": "https://www.metacritic.com/movie/ratatouille",
+      "score": 96,
+      "date": "June 29, 2007"
+    },
+    {
+      "name": "A Streetcar Named Desire",
+      "url": "https://www.metacritic.com/movie/a-streetcar-named-desire",
+      "score": 96,
+      "date": "September 19, 1951"
+    },
+    {
+      "name": "Mean Streets",
+      "url": "https://www.metacritic.com/movie/mean-streets",
+      "score": 96,
+      "date": "October 14, 1973"
+    },
+    {
+      "name": "Gravity",
+      "url": "https://www.metacritic.com/movie/gravity",
+      "score": 96,
+      "date": "October 4, 2013"
+    },
+    {
+      "name": "Fantasia",
+      "url": "https://www.metacritic.com/movie/fantasia",
+      "score": 96,
+      "date": "November 13, 1940"
+    },
+    {
+      "name": "Spirited Away",
+      "url": "https://www.metacritic.com/movie/spirited-away",
+      "score": 96,
+      "date": "September 20, 2002"
+    },
+    {
+      "name": "The Wild Bunch",
+      "url": "https://www.metacritic.com/movie/the-wild-bunch",
+      "score": 95,
+      "date": "June 18, 1969"
+    },
+    {
+      "name": "Beauty and the Beast",
+      "url": "https://www.metacritic.com/movie/beauty-and-the-beast-1991",
+      "score": 95,
+      "date": "November 22, 1991"
+    },
+    {
+      "name": "Carol",
+      "url": "https://www.metacritic.com/movie/carol",
+      "score": 95,
+      "date": "November 20, 2015"
+    },
+    {
+      "name": "Toy Story",
+      "url": "https://www.metacritic.com/movie/toy-story",
+      "score": 95,
+      "date": "November 22, 1995"
+    },
+    {
+      "name": "The Grapes of Wrath",
+      "url": "https://www.metacritic.com/movie/the-grapes-of-wrath",
+      "score": 95,
+      "date": "March 15, 1940"
+    },
+    {
+      "name": "The Social Network",
+      "url": "https://www.metacritic.com/movie/the-social-network",
+      "score": 95,
+      "date": "October 1, 2010"
+    },
+    {
+      "name": "My Fair Lady",
+      "url": "https://www.metacritic.com/movie/my-fair-lady",
+      "score": 95,
+      "date": "December 25, 1964"
+    },
+    {
+      "name": "I Am Not Your Negro",
+      "url": "https://www.metacritic.com/movie/i-am-not-your-negro",
+      "score": 95,
+      "date": "December 9, 2016"
+    },
+    {
+      "name": "The Souvenir",
+      "url": "https://www.metacritic.com/movie/the-souvenir",
+      "score": 95,
+      "date": "May 17, 2019"
+    },
+    {
+      "name": "Double Indemnity",
+      "url": "https://www.metacritic.com/movie/double-indemnity",
+      "score": 95,
+      "date": "July 6, 1944"
+    },
+    {
+      "name": "Amazing Grace",
+      "url": "https://www.metacritic.com/movie/amazing-grace-1972",
+      "score": 95,
+      "date": "November 23, 2018"
+    },
+    {
+      "name": "Killer of Sheep",
+      "url": "https://www.metacritic.com/movie/killer-of-sheep",
+      "score": 95,
+      "date": "March 30, 2007"
+    },
+    {
+      "name": "Snow White and the Seven Dwarfs",
+      "url": "https://www.metacritic.com/movie/snow-white-and-the-seven-dwarfs",
+      "score": 95,
+      "date": "February 4, 1938"
+    },
+    {
+      "name": "Zero Dark Thirty",
+      "url": "https://www.metacritic.com/movie/zero-dark-thirty",
+      "score": 95,
+      "date": "December 19, 2012"
+    },
+    {
+      "name": "A Separation",
+      "url": "https://www.metacritic.com/movie/a-separation",
+      "score": 95,
+      "date": "December 30, 2011"
+    },
+    {
+      "name": "WALL-E",
+      "url": "https://www.metacritic.com/movie/wall-e",
+      "score": 95,
+      "date": "June 27, 2008"
+    },
+    {
+      "name": "Before Midnight",
+      "url": "https://www.metacritic.com/movie/before-midnight",
+      "score": 94,
+      "date": "May 24, 2013"
+    },
+    {
+      "name": "Dunkirk",
+      "url": "https://www.metacritic.com/movie/dunkirk",
+      "score": 94,
+      "date": "July 21, 2017"
+    },
+    {
+      "name": "The Man Who Shot Liberty Valance",
+      "url": "https://www.metacritic.com/movie/the-man-who-shot-liberty-valance",
+      "score": 94,
+      "date": "April 22, 1962"
+    },
+    {
+      "name": "The Searchers",
+      "url": "https://www.metacritic.com/movie/the-searchers",
+      "score": 94,
+      "date": "May 26, 1956"
+    },
+    {
+      "name": "45 Years",
+      "url": "https://www.metacritic.com/movie/45-years",
+      "score": 94,
+      "date": "December 23, 2015"
+    },
+    {
+      "name": "Taxi Driver",
+      "url": "https://www.metacritic.com/movie/taxi-driver",
+      "score": 94,
+      "date": "February 7, 1976"
+    },
+    {
+      "name": "The Manchurian Candidate",
+      "url": "https://www.metacritic.com/movie/the-manchurian-candidate-1962",
+      "score": 94,
+      "date": "October 24, 1962"
+    },
+    {
+      "name": "Pulp Fiction",
+      "url": "https://www.metacritic.com/movie/pulp-fiction",
+      "score": 94,
+      "date": "October 14, 1994"
+    },
+    {
+      "name": "Mr. Turner",
+      "url": "https://www.metacritic.com/movie/mr-turner",
+      "score": 94,
+      "date": "December 19, 2014"
+    },
+    {
+      "name": "The Hurt Locker",
+      "url": "https://www.metacritic.com/movie/the-hurt-locker",
+      "score": 94,
+      "date": "June 26, 2009"
+    },
+    {
+      "name": "Shadow of a Doubt",
+      "url": "https://www.metacritic.com/movie/shadow-of-a-doubt",
+      "score": 94,
+      "date": "January 15, 1943"
+    },
+    {
+      "name": "Inside Out",
+      "url": "https://www.metacritic.com/movie/inside-out-2015",
+      "score": 94,
+      "date": "June 19, 2015"
+    },
+    {
+      "name": "Sideways",
+      "url": "https://www.metacritic.com/movie/sideways",
+      "score": 94,
+      "date": "October 22, 2004"
+    },
+    {
+      "name": "Apocalypse Now",
+      "url": "https://www.metacritic.com/movie/apocalypse-now",
+      "score": 94,
+      "date": "August 15, 1979"
+    },
+    {
+      "name": "The Gunfighter",
+      "url": "https://www.metacritic.com/movie/the-gunfighter",
+      "score": 94,
+      "date": "June 23, 1950"
+    },
+    {
+      "name": "We Were Here",
+      "url": "https://www.metacritic.com/movie/we-were-here",
+      "score": 94,
+      "date": "September 9, 2011"
+    },
+    {
+      "name": "Lady Bird",
+      "url": "https://www.metacritic.com/movie/lady-bird",
+      "score": 94,
+      "date": "November 3, 2017"
+    },
+    {
+      "name": "The Lord of the Rings: The Return of the King",
+      "url": "https://www.metacritic.com/movie/the-lord-of-the-rings-the-return-of-the-king",
+      "score": 94,
+      "date": "December 17, 2003"
+    },
+    {
+      "name": "Carlos",
+      "url": "https://www.metacritic.com/movie/carlos",
+      "score": 94,
+      "date": "October 15, 2010"
+    },
+    {
+      "name": "Faces Places",
+      "url": "https://www.metacritic.com/movie/faces-places",
+      "score": 94,
+      "date": "October 6, 2017"
+    },
+    {
+      "name": "Amour",
+      "url": "https://www.metacritic.com/movie/amour",
+      "score": 94,
+      "date": "December 19, 2012"
+    },
+    {
+      "name": "The Servant",
+      "url": "https://www.metacritic.com/movie/the-servant",
+      "score": 93,
+      "date": "March 16, 1964"
+    },
+    {
+      "name": "The Magnificent Ambersons",
+      "url": "https://www.metacritic.com/movie/the-magnificent-ambersons",
+      "score": 93,
+      "date": "July 10, 1942"
+    },
+    {
+      "name": "Reversal of Fortune",
+      "url": "https://www.metacritic.com/movie/reversal-of-fortune",
+      "score": 93,
+      "date": "October 17, 1990"
+    },
+    {
+      "name": "Shoplifters",
+      "url": "https://www.metacritic.com/movie/shoplifters",
+      "score": 93,
+      "date": "November 23, 2018"
+    },
+    {
+      "name": "Shoah: Four Sisters",
+      "url": "https://www.metacritic.com/movie/shoah-four-sisters",
+      "score": 93,
+      "date": "November 14, 2018"
+    },
+    {
+      "name": "Crouching Tiger, Hidden Dragon",
+      "url": "https://www.metacritic.com/movie/crouching-tiger-hidden-dragon",
+      "score": 93,
+      "date": "December 8, 2000"
+    },
+    {
+      "name": "Toni Erdmann",
+      "url": "https://www.metacritic.com/movie/toni-erdmann",
+      "score": 93,
+      "date": "December 25, 2016"
+    },
+    {
+      "name": "Yi Yi",
+      "url": "https://www.metacritic.com/movie/yi-yi",
+      "score": 93,
+      "date": "October 6, 2000"
+    },
+    {
+      "name": "Spotlight",
+      "url": "https://www.metacritic.com/movie/spotlight",
+      "score": 93,
+      "date": "November 6, 2015"
+    },
+    {
+      "name": "La La Land",
+      "url": "https://www.metacritic.com/movie/la-la-land",
+      "score": 93,
+      "date": "December 9, 2016"
+    },
+    {
+      "name": "Call Me by Your Name",
+      "url": "https://www.metacritic.com/movie/call-me-by-your-name",
+      "score": 93,
+      "date": "November 24, 2017"
+    },
+    {
+      "name": "Inside Llewyn Davis",
+      "url": "https://www.metacritic.com/movie/inside-llewyn-davis",
+      "score": 93,
+      "date": "December 6, 2013"
+    },
+    {
+      "name": "Schindler's List",
+      "url": "https://www.metacritic.com/movie/schindlers-list",
+      "score": 93,
+      "date": "December 15, 1993"
+    },
+    {
+      "name": "Sherpa",
+      "url": "https://www.metacritic.com/movie/sherpa",
+      "score": 93,
+      "date": "October 2, 2015"
+    },
+    {
+      "name": "There Will Be Blood",
+      "url": "https://www.metacritic.com/movie/there-will-be-blood",
+      "score": 93,
+      "date": "December 26, 2007"
+    },
+    {
+      "name": "Badlands",
+      "url": "https://www.metacritic.com/movie/badlands",
+      "score": 93,
+      "date": "October 15, 1973"
+    },
+    {
+      "name": "The Last Picture Show",
+      "url": "https://www.metacritic.com/movie/the-last-picture-show",
+      "score": 93,
+      "date": "October 22, 1971"
+    },
+    {
+      "name": "Sita Sings the Blues",
+      "url": "https://www.metacritic.com/movie/sita-sings-the-blues",
+      "score": 93,
+      "date": "December 25, 2009"
+    },
+    {
+      "name": "The Decline of Western Civilization",
+      "url": "https://www.metacritic.com/movie/the-decline-of-western-civilization",
+      "score": 93,
+      "date": "July 5, 1981"
+    },
+    {
+      "name": "Days of Heaven",
+      "url": "https://www.metacritic.com/movie/days-of-heaven",
+      "score": 93,
+      "date": "September 13, 1978"
+    },
+    {
+      "name": "Crumb",
+      "url": "https://www.metacritic.com/movie/crumb",
+      "score": 93,
+      "date": "April 28, 1995"
+    },
+    {
+      "name": "One More Time with Feeling",
+      "url": "https://www.metacritic.com/movie/one-more-time-with-feeling",
+      "score": 92,
+      "date": "September 8, 2016"
+    },
+    {
+      "name": "The Diving Bell and the Butterfly",
+      "url": "https://www.metacritic.com/movie/the-diving-bell-and-the-butterfly",
+      "score": 92,
+      "date": "November 30, 2007"
+    }
+  ]
+}
