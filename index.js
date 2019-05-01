@@ -19,6 +19,12 @@ const getNextPage = () => {
     }
 
     const newMovieList = movieList.filter(({ url }) => !moviesTable.find({ url }).value());
+    if (!newMovieList.length) {
+      page++;
+      getNextPage();
+      return;
+    }
+
     let successCount = 0;
     let completedCount = 0;
     newMovieList.forEach(({ name, url, score, date }) => {
@@ -27,10 +33,8 @@ const getNextPage = () => {
         successCount++;
         completedCount++;
 
-        if (completedCount === newMovieList.length && successCount !== completedCount) { // All movies attempted. Some errors
-          getNextPage();
-        } else if (completedCount === newMovieList.length && successCount === completedCount) { // All movies attempted. No errors
-          page++;
+        if (completedCount === newMovieList.length) { // All movies attempted
+          if (successCount === completedCount) page++;
           getNextPage();
         }
       }).catch(err => {
